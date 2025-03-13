@@ -20,7 +20,7 @@
 
 - name: Shaun Warrington, PhD
   photo: shaun.jpg
-  info: Post-doctoral Researcher, started 10/2021
+  info: Senior Post-doctoral Researcher, started 10/2021
   email: shaun.warrington1@nottingham.ac.uk
   personalweb: https://swarrington1.github.io
   number_educ: 4
@@ -62,12 +62,12 @@
   education1: BSc Electronic Engineering, University of Madrid, Spain
   education2: MSc Artificial Intelligence, University of Madrid, Spain
   education3: PhD Medical Imaging, University of Nottingham, UK
-  education4: Funding Source ERC
-  external_sites: 3
+  education4: Funding Source ERC & WT
+  external_sites: 4
   orcid: https://orcid.org/0000-0002-0040-1926
   twitter: https://twitter.com/josepemanzano
   erc: https://erc.europa.eu
-
+  wt: https://wellcome.org/grant-funding/schemes/bioimaging-technology-development-awards
 
 
 - name: Stephania Assimopoulos, PhD
@@ -115,17 +115,36 @@
   nih: https://braininitiative.nih.gov
 
 
-- name: Jenna Hanmer
+- name: Jenna Hanmer, PhD
   photo: jenna.jpg
-  info: PhD Student, started 10/2020
+  info: Post-doctoral Researcher, started 10/2024
   email: jenna.hanmer@nottingham.ac.uk
-  number_educ: 3
+  number_educ: 4
   education1: MSci Neuroscience, University of Nottingham, UK
   education2: MSc Cognitive Neuroscience | Brain Imaging, University of Nottingham, UK
-  education3: Funding Source MRC | <a href="https://more.bham.ac.uk/mrc-impact" target="_blank">IMPACT DTP</a>
-  external_sites: 2
+  education3: PhD Neuroimaging & Light-Sheet Microscopy, University of Nottingham, UK
+  education4: Funding Source MRC & WT | <a href="https://more.bham.ac.uk/mrc-impact" target="_blank">IMPACT DTP</a>
+  external_sites: 3
   twitter: https://twitter.com/jennahanmer
   ukri: https://more.bham.ac.uk/mrc-impact/
+  wt: https://wellcome.org/grant-funding/schemes/bioimaging-technology-development-awards 
+
+
+- name: Benjamin Towle
+  photo: ben.jpg
+  info: Post-doctoral Researcher, started 02/2025
+  email: benjamin.towle@nottingham.ac.uk
+  number_educ: 4
+  education1: MA Classics, St John’s College, University of Oxford, UK 
+  education2: MSc Computer Science (Artificial Intelligence), University of Nottingham, UK
+  education3: PhD Computer Science, University of Nottingham, UK 
+  education4: Funding Source ERC 
+  external_sites: 5
+  google_scholar: https://scholar.google.com/citations?hl=en&user=t2qqHaAAAAAJ 
+  orcid: https://orcid.org/0000-0003-1143-1271
+  researchgate: https://www.researchgate.net/profile/Benjamin-Towle-3 
+  linkedIn: https://www.linkedin.com/in/benjamin-towle-6b45a3145/ 
+  erc: https://erc.europa.eu
 
 
 - name: Francesco D'Antonio
@@ -139,14 +158,3 @@
   external_sites: 1
   orcid: https://orcid.org/0009-0003-1204-2187
 
-
-
-- name: Adnan Jinnah 
-  photo: adnan.jpg
-  info: PhD Student, started 10/2023
-  email: adnan.jinnah@nottingham.ac.uk
-  number_educ: 2
-  education1: MSCi Physics with Computer Science, Durham University, UK
-  education2: Funding Source UoN
-  external_sites: 1
-  twitter: 
