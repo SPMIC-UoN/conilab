@@ -1,3 +1,13 @@
+- title: "Cross-species stdandardised cortico-subcortical tractography"
+  image: dummy.png
+  description: ""
+  authors: Assimopoulos S, Warrington S, Folloni D, Bryant K, Tang W, Jbabdi S, Heilbronner S, Mars RB, Sotiropoulos SN
+  link:
+    url:
+    display: (2025)
+  highlight: 0
+
+
 - title: "Uncertainty mapping and probabilistic tractography using Simulation-Based Inference in diffusion MRI: A comparison with classical Bayes"
   image: dummy.png
   description: ""
@@ -14,7 +24,7 @@
   authors: Warrington S, Torchi A, Mougin O, Campbell J, Ntata A, Craig M, Assimopoulos S, Alfaro-Almagro F, Miller K, Jenkinson M, Morgan PS, Sotiropoulos SN
   link:
     url: 
-    display: (2025)
+    display: Scientific Data (2025)
   highlight: 0
 
 
