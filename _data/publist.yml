@@ -8,6 +8,16 @@
   highlight: 0
 
 
+- title: "Translating brain anatomy and neurodegenerative disease from mouse to human through latent gene expression space"
+  image: dummy.png
+  description: ""
+  authors: Jaroszynski C, Amer M, Beauchamp A, Lerch JP, Sotiropoulos SN, Mars RB
+  link:
+    url:
+    display: (2025)
+  highlight: 0
+
+
 - title: "Uncertainty mapping and probabilistic tractography using Simulation-Based Inference in diffusion MRI: A comparison with classical Bayes"
   image: dummy.png
   description: ""
@@ -34,11 +44,11 @@
   authors: Sotiropoulos SN, Thiebaut de Schotten M, Haber SN, Forkel SJ
   link:
     url: 
-    display: (2025)
+    display: Brain Structure and Function (2025)
   highlight: 0
 
 
-- title: "Brains Under Stress: Unravelling the Effects of the COVID-19 Pandemic on Brain Ageing"
+- title: "Unravelling the Effects of the COVID-19 Pandemic on Brain Ageing"
   image: dummy.png
   description: ""
   authors: Mohammadi-Nejad AR, Craig M, Cox E, Chen X, Jenkins RG, Francis S, Sotiropoulos SN, Auer DP
