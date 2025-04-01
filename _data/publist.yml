@@ -24,8 +24,8 @@
   authors: Manzano-Patron JP, Deistler M, Schröder C, Kypraios T, Goncalves PJ, Macke JH, Sotiropoulos SN
   link:
     url: https://www.biorxiv.org/content/10.1101/2024.11.19.624267v1
-    display: (2025)
-  highlight: 0
+    display: Medical Image Analysis (2025)
+  highlight: 1
 
 
 - title: "ON-Harmony: A multi-site, multi-modal travelling-heads resource for brain MRI harmonisation"
@@ -325,8 +325,7 @@
   link:
     url: https://doi.org/10.1016/j.neuroimage.2020.117273
     display: Neuroimage 222:117273 (2020)
-  highlight: 1
-  extra_br: 1
+  highlight: 0
 
   
 - title: "XTRACT - Standardised protocols for automated tractography in the human and macaque brain."
