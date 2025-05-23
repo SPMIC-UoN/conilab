@@ -16,7 +16,7 @@
     url: https://doi.org/10.1101/2025.03.31.646307
     display: (2025)
   highlight: 0
-
+  
 
 - title: "Uncertainty mapping and probabilistic tractography using Simulation-Based Inference in diffusion MRI: A comparison with classical Bayes"
   image: sbi.jpg
@@ -27,6 +27,16 @@
     display: Medical Image Analysis (2025)
   highlight: 1
 
+
+- title: "An anthropoid/strepsirrhine divergence in ventral visual stream connectivity"
+  image: dummy.png
+  description: ""
+  authors: Hunt JE, Warrington S, Roumazeilles L, Jbabdi S, Molnar Z, Sotiropoulos SN, Mars RB
+  link:
+    url: https://doi.org/10.1101/2025.05.19.653861
+    display: (2025)
+  highlight: 0
+  
 
 - title: "ON-Harmony: A multi-site, multi-modal travelling-heads resource for brain MRI harmonisation"
   image: dummy.png
@@ -55,7 +65,7 @@
   link:
     url: https://www.medrxiv.org/content/10.1101/2024.07.22.24310790v2
     display: Nature Communications (2025)
-  highlight: 0
+  highlight: 1
 
 
 - title: "Connectivity profile and function of uniquely human cortical areas"
@@ -196,7 +206,7 @@
   link:
     url: https://doi.org/10.1016/j.ebiom.2022.104356
     display: eBioMedicine 86 (2022)
-  highlight: 1
+  highlight: 0
 
 
 - title: "Predicting time-resolved electrophysiological brain networks from structural eigenmodes"
