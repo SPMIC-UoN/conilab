@@ -54,7 +54,7 @@
 
 
 
-- name: Jose Manzano Patron, PhD
+- name: Jose Pedro Manzano Patron, PhD
   photo: jose.jpg
   info: Post-doctoral Researcher, started 01/2023
   email: jose.manzanopatron1@nottingham.ac.uk
@@ -63,8 +63,9 @@
   education2: MSc Artificial Intelligence, University of Madrid, Spain
   education3: PhD Medical Imaging, University of Nottingham, UK
   education4: Funding Source ERC & WT
-  external_sites: 4
+  external_sites: 5
   orcid: https://orcid.org/0000-0002-0040-1926
+  google_scholar: https://scholar.google.com/citations?user=JVCKoLUAAAAJ&hl=en
   twitter: https://twitter.com/josepemanzano
   erc: https://erc.europa.eu
   wt: https://wellcome.org/grant-funding/schemes/bioimaging-technology-development-awards
@@ -78,8 +79,9 @@
   education1: HBSc Physics, University of Toronto, Canada
   education2: PhD Medical Biophysics, University of Toronto, Canada
   education3: Funding Source ERC
-  external_sites: 3
+  external_sites: 4
   orcid: https://orcid.org/0000-0002-7321-6297
+  google_scholar: https://scholar.google.com/citations?user=tGM3ExcAAAAJ&hl=en
   twitter: https://twitter.com/SAssimopoulos
   erc: https://erc.europa.eu
 
@@ -94,8 +96,9 @@
   education2: MSc Neuroscience, King's College London, UK
   education3: PhD Psychological Medicine, King's College London, UK
   education4: Funding Source ERC
-  external_sites: 2
+  external_sites: 3
   orcid: https://orcid.org/0000-0002-5372-3179
+  google_scholar: https://scholar.google.com/citations?user=uJFG3kUAAAAJ&hl=en
   erc: https://erc.europa.eu
 
 
