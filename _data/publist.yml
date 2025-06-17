@@ -16,7 +16,17 @@
     url: https://doi.org/10.1101/2025.03.31.646307
     display: (2025)
   highlight: 0
-  
+
+
+- title: "Atlas-Based Templates vs. Subject-Specific Tractography: Resolving the Debate"
+  image: dummy.png
+  description: ""
+  authors: Schilling KG, Zhang F, Tournier JD, Vergani F, Sotiropoulos SN, Rokem A, O’Donnell LJ
+  link:
+    url: 
+    display: Brain Structure and Function (2025)
+  highlight: 0
+
 
 - title: "Uncertainty mapping and probabilistic tractography using Simulation-Based Inference in diffusion MRI: A comparison with classical Bayes"
   image: sbi.jpg
