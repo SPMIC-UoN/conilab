@@ -88,6 +88,16 @@
   highlight: 0
 
 
+- title: "Automated characterisation of cerebral microbleeds using their size and spatial distribution on brain MRI"
+  image: dummy.png
+  description: ""
+  authors: Sundaresan V, Zamboni G, Dineen RA, Auer DP, Sotiropoulos SN, Sprigg N, Jenkinson M, Griffanti L 
+  link:
+    url: https://doi.org/10.1186/s41747-024-00544-z
+    display: European Radiology Experimental (2025)
+  highlight: 0
+
+
 - title: "Personalized circuit modeling captures variation in cortical functional connectivity"
   image: dummy.png
   description: ""
