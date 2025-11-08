@@ -7,6 +7,17 @@
     display: (2025)
   highlight: 0
 
+
+- title: "What needs to be standardized for reliable, reproducible, and robust tractography?"
+  image: dummy.png
+  description: ""
+  authors: Legarreta JH, Schiavi S, Tang W, Banks G, Cieslak M, Schilling K, De Luca A, Tournier JD, Kruper J, Rheault F, Sotiropoulos SN, Pestilli F, Veraart J, Yang JY, Descoteaux M, Heilbronner S, Rokem A
+  link:
+    url: https://doi.org/10.31234/osf.io/qgkzu_v1
+    display: (2025)
+  highlight: 0
+  
+
 - title: "Cross-species standardised cortico-subcortical tractography"
   image: dummy.png
   description: ""
