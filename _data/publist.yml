@@ -1,4 +1,4 @@
-- title: "Offline reconstruction of diffusion MRI acquisitions for comparison betweenc Complex PCA-based and AI-based denoising"
+- title: "Offline reconstruction of diffusion MRI acquisitions for comparison betweenc complex PCA-based and AI-based denoising"
   image: dummy.png
   description: ""
   authors: D'Antonio F, Warrington S, Manzano-Patron JP, Morgan PS, Sotiropoulos SN
@@ -6,7 +6,6 @@
     url: https://doi.org/10.1101/2025.11.07.682283
     display: (2025)
   highlight: 0
-
 
 - title: "Cross-species standardised cortico-subcortical tractography"
   image: dummy.png
@@ -17,7 +16,6 @@
     display: eLife (2025)
   highlight: 0
 
-
 - title: "Translating brain anatomy and neurodegenerative disease from mouse to human through latent gene expression space"
   image: dummy.png
   description: ""
@@ -27,8 +25,7 @@
     display: (2025)
   highlight: 0
 
-
--title: "Millennium Pathways for Tractography: 40 grand challenges to shape the future of tractography"
+- title: "Millennium Pathways for Tractography: 40 grand challenges to shape the future of tractography"
   image: dummy.png
   description: ""
   authors: Descoteaux M, Schilling KG, Aydogan DB, Beaulieu C, Borra E,... Schiavi S, Sotiropoulos SN, Szczupak D, Thiebaut de Schotten M, Tournier JD, Vergani F, Yang JY, Zhang F, Jones D, Petit L
