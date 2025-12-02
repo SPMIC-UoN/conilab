@@ -8,6 +8,17 @@
   highlight: 0
 
 
+
+- title: "Cross-species standardised cortico-subcortical tractography"
+  image: dummy.png
+  description: ""
+  authors: Assimopoulos S, Warrington S, Folloni D, Bryant K, Tang W, Jbabdi S, Heilbronner S, Mars RB, Sotiropoulos SN
+  link:
+    url: https://doi.org/10.7554/eLife.107012.3
+    display: eLife 14:RP107012 (2025)
+  highlight: 0
+
+
 - title: "What needs to be standardized for reliable, reproducible, and robust tractography?"
   image: dummy.png
   description: ""
@@ -18,15 +29,6 @@
   highlight: 0
   
 
-- title: "Cross-species standardised cortico-subcortical tractography"
-  image: dummy.png
-  description: ""
-  authors: Assimopoulos S, Warrington S, Folloni D, Bryant K, Tang W, Jbabdi S, Heilbronner S, Mars RB, Sotiropoulos SN
-  link:
-    url: https://doi.org/10.7554/eLife.107012.2
-    display: eLife (2025)
-  highlight: 0
-
 - title: "Translating brain anatomy and neurodegenerative disease from mouse to human through latent gene expression space"
   image: dummy.png
   description: ""
@@ -35,6 +37,7 @@
     url: https://doi.org/10.1101/2025.03.31.646307
     display: (2025)
   highlight: 0
+
 
 - title: "Millennium Pathways for Tractography: 40 grand challenges to shape the future of tractography"
   image: dummy.png
@@ -52,7 +55,7 @@
   authors: Schilling KG, Zhang F, Tournier JD, Vergani F, Sotiropoulos SN, Rokem A, O’Donnell LJ
   link:
     url: https://doi.org/10.1007/s00429-025-02974-w
-    display: Brain Structure and Function (2025)
+    display: Brain Structure and Function 230:141 (2025)
   highlight: 0
 
 
@@ -62,7 +65,7 @@
   authors: Manzano-Patron JP, Deistler M, Schröder C, Kypraios T, Goncalves PJ, Macke JH, Sotiropoulos SN
   link:
     url: https://doi.org/10.1016/j.media.2025.103580
-    display: Medical Image Analysis (2025)
+    display: Medical Image Analysis 103:103580 (2025)
   highlight: 1
 
 
@@ -72,7 +75,7 @@
   authors: Hunt JE, Warrington S, Roumazeilles L, Jbabdi S, Molnar Z, Sotiropoulos SN, Mars RB
   link:
     url: https://doi.org/10.1093/cercor/bhaf308
-    display: Cerebral Cortex (2025)
+    display: Cerebral Cortex 35:bhaf308 (2025)
   highlight: 0
   
 
@@ -82,7 +85,7 @@
   authors: Warrington S, Torchi A, Mougin O, Campbell J, Ntata A, Craig M, Assimopoulos S, Alfaro-Almagro F, Miller K, Jenkinson M, Morgan PS, Sotiropoulos SN
   link:
     url: https://doi.org/10.1038/s41597-025-04822-2
-    display: Scientific Data (2025)
+    display: Scientific Data 12:609 (2025)
   highlight: 0
 
 
@@ -92,7 +95,7 @@
   authors: Sotiropoulos SN, Thiebaut de Schotten M, Haber SN, Forkel SJ
   link:
     url: https://doi.org/10.1007/s00429-025-02914-8
-    display: Brain Structure and Function (2025)
+    display: Brain Structure and Function 230:75 (2025)
   highlight: 0
 
 
@@ -102,7 +105,7 @@
   authors: Mohammadi-Nejad AR, Craig M, Cox E, Chen X, Jenkins RG, Francis S, Sotiropoulos SN*, Auer DP*
   link:
     url: https://doi.org/10.1038/s41467-025-61033-4
-    display: Nature Communications (2025)
+    display: Nature Communications 16:6411 (2025)
   highlight: 1
 
 
@@ -112,7 +115,7 @@
   authors: Bryant KL, Camilleri J, Warrington S, Freches GB, Sotiropoulos SN, Jbabdi S, Eickhoff S, Mars RB
   link:
     url: https://doi.org/10.1523/JNEUROSCI.2017-24.2025
-    display: Journal of Neuroscience (2025)
+    display: Journal of Neuroscience 45:e2017242025 (2025)
   highlight: 0
 
 
@@ -122,7 +125,7 @@
   authors: Sundaresan V, Zamboni G, Dineen RA, Auer DP, Sotiropoulos SN, Sprigg N, Jenkinson M, Griffanti L 
   link:
     url: https://doi.org/10.1186/s41747-024-00544-z
-    display: European Radiology Experimental (2025)
+    display: European Radiology Experimental 9:5 (2025)
   highlight: 0
 
 
@@ -152,7 +155,7 @@
   authors: Cirstian R, Forde NJ, Andersson JLR, Sotiropoulos SN, Beckmann CF, Marquand AF
   link:
     url: https://doi.org/10.1162/imag_a_00144
-    display: Imaging Neuroscience 2 (2024)
+    display: Imaging Neuroscience 2:imag-2-00144 (2024)
   highlight: 0
   
 
@@ -172,7 +175,7 @@
   authors: Assimopoulos S, Warrington S, Bryant KL, Pszczolkowski S, Jbabdi S, Mars RB, Sotiropoulos SN
   link:
     url: https://doi.org/10.1007/s00429-024-02760-0
-    display: Brain Structure and Function (2024)
+    display: Brain Structure and Function 229:1873–1888 (2024)
   highlight: 0
 
 
@@ -192,7 +195,7 @@
   authors: Manzano-Patron JP, Moeller S, Andersson JLR, Ugurbil K, Yacoub E, Sotiropoulos SN
   link:
     url: https://doi.org/10.1162/imag_a_00060
-    display: Imaging Neuroscience 2 (2024)
+    display: Imaging Neuroscience 2:imag-2-00060 (2024)
   highlight: 0
 
 
@@ -202,7 +205,7 @@
   authors: Warrington S, Ntata A, Mougin O, Campbell J, Torchi A, Craig M, Alfaro-Almagro F, Miller KL, Morgan PS, Jenkinson M, Sotiropoulos SN
   link:
     url: https://doi.org/10.1162/imag_a_00042
-    display: Imaging Neuroscience 1 (2023)
+    display: Imaging Neuroscience 1:imag-1-00041 (2023)
   highlight: 0
 
 
