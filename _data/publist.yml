@@ -1,14 +1,14 @@
 - title: "An RF coil array system for in vivo & ex vivo non-human primate brain studies at 10.5 Tesla"
 image: dummy.png
   description: ""
-  authors:  Waks M, Bratch A, Jungst S, Lagore RL, Tendler BC, Warrington S, Wu W, Sotiropoulos SN, Miller KL, Moeller S, Manea AMG, Ugurbil K, Zimmermann J, Adriany G
+  authors: Waks M, Bratch A, Jungst S, Lagore RL, Tendler BC, Warrington S, Wu W, Sotiropoulos SN, Miller KL, Moeller S, Manea AMG, Ugurbil K, Zimmermann J, Adriany G
   link:
     url: https://doi.org/10.1101/2025.11.07.682283
     display: (2025)
   highlight: 0
 
 
-- title: "Offline reconstruction of diffusion MRI acquisitions for comparison betweenc complex PCA-based and AI-based denoising"
+- title: "Offline reconstruction of diffusion MRI acquisitions for comparison between complex PCA-based and AI-based denoising"
   image: dummy.png
   description: ""
   authors: D'Antonio F, Warrington S, Manzano-Patron JP, Morgan PS, Sotiropoulos SN
