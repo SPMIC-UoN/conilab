@@ -1,3 +1,23 @@
+- title: "10.5 Tesla High-Resolution Macaque Brain MRI for Connectivity Studies"
+  image: dummy.png
+  description: ""
+  authors: Warrington S, Selim MK, Tendler BC, Moeller S, Farooq H, Wu W, Pisharady P, Adriany G, Auerbach EJ, Bratch A, Manea AMG, Grafft T, Jungst S, Harel N, Waks M, Pestilli F, Yacoub E, Lenglet C, Ugurbil K, Heilbronner SR, Miller K, Jbabdi S, Zimmermann J, Sotiropoulos SN
+  link:
+    url: https://biorxiv.org
+    display: (2025)
+  highlight: 0
+
+
+- title: "Diffusion-weighted steady-state free precession imaging in the ex vivo macaque brain on a 10.5T human MRI scanner"
+  image: dummy.png
+  description: ""
+  authors: Tendler BC, Warrington S, Selim MK, Wu W, Adriany G, Auerbach EJ, Bratch A, Farooq H, Harel N, Heilbronner S, Jbabdi S, Jungst S, Lenglet C, Manea AMG, Moeller S, Pestilli F, Pisharady PK, Ugurbil K, Waks M, Yacoub E, Sotiropoulos SN, Miller KL, Zimmermann J
+  link:
+    url: https://doi.org/10.64898/2025.12.12.694017
+    display: (2025)
+  highlight: 0
+
+
 - title: "An RF coil array system for in vivo & ex vivo non-human primate brain studies at 10.5 Tesla"
   image: dummy.png
   description: ""
