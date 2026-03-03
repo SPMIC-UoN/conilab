@@ -19,7 +19,7 @@
 
 
 - title: "State-of-the-art preprocessing diffusion MRI data can improve tractography"
-image: dummy.png
+  image: dummy.png
   description: ""
   authors: Schilling KG, Cieslak M, Descoteaux M, Landman BA, Pestilli F, Rokem A, Sotiropoulos SN, Tournier JD, Veraart J
   link:
