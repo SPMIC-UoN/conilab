@@ -23,7 +23,7 @@ image: dummy.png
   description: ""
   authors: Schilling KG, Cieslak M, Descoteaux M, Landman BA, Pestilli F, Rokem A, Sotiropoulos SN, Tournier JD, Veraart J
   link:
-    url:
+    url: https://doi.org
     display: (2026)
   highlight: 0
 
@@ -46,7 +46,6 @@ image: dummy.png
     url: https://doi.org/10.1002/mrm.70336
     display: Magnetic Resonance in Medicine (2026)
   highlight: 0
-
 
 
 - title: "Cross-species standardised cortico-subcortical tractography"
