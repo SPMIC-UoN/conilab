@@ -4,7 +4,7 @@
   authors: Warrington S, Selim MK, Tendler BC, Moeller S, Farooq H, Wu W, Pisharady P, Adriany G, Auerbach EJ, Bratch A, Manea AMG, Grafft T, Jungst S, Harel N, Waks M, Pestilli F, Yacoub E, Lenglet C, Ugurbil K, Heilbronner SR, Miller K, Jbabdi S, Zimmermann J, Sotiropoulos SN
   link:
     url: https://doi.org/10.64898/2025.12.22.695917
-    display: (2025)
+    display: (2026)
   highlight: 0
 
 
@@ -14,9 +14,17 @@
   authors: Tendler BC, Warrington S, Selim MK, Wu W, Adriany G, Auerbach EJ, Bratch A, Farooq H, Harel N, Heilbronner S, Jbabdi S, Jungst S, Lenglet C, Manea AMG, Moeller S, Pestilli F, Pisharady PK, Ugurbil K, Waks M, Yacoub E, Sotiropoulos SN, Miller KL, Zimmermann J
   link:
     url: https://doi.org/10.64898/2025.12.12.694017
-    display: (2025)
+    display: (2026)
   highlight: 0
 
+- title: "State-of-the-art preprocessing diffusion MRI data can improve tractography"
+image: dummy.png
+  description: ""
+  authors: Schilling KG, Cieslak M, Descoteaux M, Landman BA, Pestilli F, Rokem A, Sotiropoulos SN, Tournier JD, Veraart J
+  link:
+    url:
+    display: (2026)
+  highlight: 0
 
 - title: "An RF coil array system for in vivo & ex vivo non-human primate brain studies at 10.5 Tesla"
   image: dummy.png
@@ -24,7 +32,7 @@
   authors: Waks M, Bratch A, Jungst S, Lagore RL, Tendler BC, Warrington S, Wu W, Sotiropoulos SN, Miller KL, Moeller S, Manea AMG, Ugurbil K, Zimmermann J, Adriany G
   link:
     url: https://doi.org/10.64898/2025.12.09.692206
-    display: (2025)
+    display: (2026)
   highlight: 0
 
 
@@ -33,8 +41,8 @@
   description: ""
   authors: D'Antonio F, Warrington S, Manzano-Patron JP, Morgan PS, Sotiropoulos SN
   link:
-    url: https://doi.org/10.1101/2025.11.07.682283
-    display: (2025)
+    url: https://doi.org/10.1002/mrm.70336
+    display: Magnetic Resonance in Medicine (2026)
   highlight: 0
 
 
