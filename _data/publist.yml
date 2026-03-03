@@ -17,6 +17,7 @@
     display: (2026)
   highlight: 0
 
+
 - title: "State-of-the-art preprocessing diffusion MRI data can improve tractography"
 image: dummy.png
   description: ""
@@ -25,6 +26,7 @@ image: dummy.png
     url:
     display: (2026)
   highlight: 0
+
 
 - title: "An RF coil array system for in vivo & ex vivo non-human primate brain studies at 10.5 Tesla"
   image: dummy.png
