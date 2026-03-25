@@ -191,6 +191,7 @@ class="img-responsive" width="25%" style="float: left" /></a>
   {% if member.now  %}
 	Now {{ member.now }}
 	<ul style="overflow: hidden">
+
 	</ul>
    {% endif %}
   
