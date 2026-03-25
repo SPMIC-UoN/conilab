@@ -190,10 +190,10 @@ class="img-responsive" width="25%" style="float: left" /></a>
   <i>Role: {{ member.info }}</i><br>
   {% if member.now  %}
 	Now {{ member.now }}
-  {% endif %}
-  <ul style="overflow: hidden">
+	<ul style="overflow: hidden">
+	</ul>
+   {% endif %}
   
-   </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
