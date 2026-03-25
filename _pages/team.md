@@ -188,7 +188,9 @@ class="img-responsive" width="25%" style="float: left" /></a>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>Role: {{ member.info }}</i><br>
-  Now {{ member.now }}
+  {% if member.now  %}
+	Now {{ member.now }}
+  {% endif %}
   <ul style="overflow: hidden">
   
    </ul>
