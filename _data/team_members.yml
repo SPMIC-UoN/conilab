@@ -54,23 +54,6 @@
 
 
 
-- name: Jose Pedro Manzano Patron, PhD
-  photo: jose.jpg
-  info: Post-doctoral Researcher, started 01/2023
-  email: jose.manzanopatron1@nottingham.ac.uk
-  number_educ: 4
-  education1: BSc Electronic Engineering, University of Madrid, Spain
-  education2: MSc Artificial Intelligence, University of Madrid, Spain
-  education3: PhD Medical Imaging, University of Nottingham, UK
-  education4: Funding Source ERC & WT
-  external_sites: 5
-  orcid: https://orcid.org/0000-0002-0040-1926
-  google_scholar: https://scholar.google.com/citations?user=JVCKoLUAAAAJ&hl=en
-  twitter: https://twitter.com/josepemanzano
-  erc: https://erc.europa.eu
-  wt: https://wellcome.org/grant-funding/schemes/bioimaging-technology-development-awards
-
-
 - name: Stephania Assimopoulos, PhD
   photo: stephania.jpg
   info: Post-doctoral Researcher, started 07/2022
@@ -117,7 +100,7 @@
   wt: https://wellcome.org/grant-funding/schemes/bioimaging-technology-development-awards 
 
 
-- name: Benjamin Towle
+- name: Benjamin Towle, PhD
   photo: ben.jpg
   info: Post-doctoral Researcher, started 02/2025
   email: benjamin.towle@nottingham.ac.uk
@@ -145,3 +128,11 @@
   external_sites: 1
   orcid: https://orcid.org/0009-0003-1204-2187
 
+
+- name: Ioanna Deroukaki
+  photo: 
+  info: Research Assistant, started 01/2026
+  email: ioanna.deroukaki@nottingham.ac.uk
+  number_educ: 2
+  education1: MEng Biomedical Engineering, Cardiff University, UK
+  education2: Funding Source ERC
