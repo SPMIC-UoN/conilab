@@ -111,3 +111,15 @@
   education3: Funding Source GE Healthcare & UoN
   external_sites: 1
   orcid: https://orcid.org/0009-0003-1204-2187
+
+
+
+- name: Martin Craig, PhD
+  photo: mc.jpg
+  info: Research Software Engineer
+  email: martin.craig@nottingham.ac.uk
+  number_educ: 2
+  education1: PhD Mineal Physics, University of Cambridge UK
+  education2: MSci Mathematics and PhysicsUniversity of Bristol, UK
+  external_sites: 1
+  google_scholar: https://scholar.google.com/citations?user=QK7uNUoAAAAJ&hl=en
