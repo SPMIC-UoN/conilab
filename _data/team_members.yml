@@ -54,22 +54,6 @@
 
 
 
-- name: Stephania Assimopoulos, PhD
-  photo: stephania.jpg
-  info: Post-doctoral Researcher, started 07/2022
-  email: stephania.assimopoulos@nottingham.ac.uk
-  number_educ: 3
-  education1: HBSc Physics, University of Toronto, Canada
-  education2: PhD Medical Biophysics, University of Toronto, Canada
-  education3: Funding Source ERC
-  external_sites: 4
-  orcid: https://orcid.org/0000-0002-7321-6297
-  google_scholar: https://scholar.google.com/citations?user=tGM3ExcAAAAJ&hl=en
-  twitter: https://twitter.com/SAssimopoulos
-  erc: https://erc.europa.eu
-
-
-
 - name: Daniel Halls, PhD
   photo: daniel.jpg
   info: Post-doctoral Researcher, started 04/2024
@@ -127,12 +111,3 @@
   education3: Funding Source GE Healthcare & UoN
   external_sites: 1
   orcid: https://orcid.org/0009-0003-1204-2187
-
-
-- name: Ioanna Deroukaki
-  photo: 
-  info: Research Assistant, started 01/2026
-  email: ioanna.deroukaki@nottingham.ac.uk
-  number_educ: 2
-  education1: MEng Biomedical Engineering, Cardiff University, UK
-  education2: Funding Source ERC
