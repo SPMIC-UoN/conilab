@@ -1,4 +1,24 @@
-- title: "10.5 Tesla High-Resolution Macaque Brain MRI for Connectivity Studies"
+- title: "High-throughput light-sheet 3D microscopy of whole rodent brain microstructure for integration with MRI"
+  image: dummy.png
+  description: ""
+  authors: Hanmer JH, D’Antonio F, Manzano-Patron JP, Assimopoulos S, Wood SC, Tachrount M, Shen Q, Craig M, Lai C, Hickman GJ, Radfar E, Chisholm KI, Farr TD, Jasanoff A, Hoerder-Suabedissen A, Molnar Z, Ligneul C, Tisca C, Jbabdi S, Howard AFD, Miller KL, de Guzman E, Lerch JP, Sotiropoulos SN
+  link:
+    url: https://www.biorxiv.org/content/10.64898/2026.10.12.758500v1
+    display: (2026)
+  highlight: 0
+
+
+- title: "The TRX ecosystem for brain tractography"
+  image: dummy.png
+  description: ""
+  authors: Rheault F, Rorden C, Cieslak M, Koudoro S, Hayot-Sasson V, Heinsfeld AS, Legarreta JH, Smith RE, Tournier JD, Yeh FC, Markiewicz CJ, Jeurissen B, Aydogan DB, Haehn D, Pieper S, Bullock D, Kruper J, Olivetti E, Cote MA, Cook PA, Zukic D, McCarthy P, Jbabdi S, Sotiropoulos SN, Neher P, Daducci A, O’Donnell LJ, Dell’Acqua F, Leemans A, Descoteaux M, Landman B, Satterthwaite TD, Garyfallidis E, Pestilli F, Rokem A
+  link:
+    url: https://tee-ar-ex.github.io/
+    display: (2026)
+  highlight: 0
+
+
+- title: "10.5 Tesla High-Resolution Macaque Brain MRI for In vivo and Ex vivo Connectivity Studies"
   image: dummy.png
   description: ""
   authors: Warrington S, Selim MK, Tendler BC, Moeller S, Farooq H, Wu W, Pisharady P, Adriany G, Auerbach EJ, Bratch A, Manea AMG, Grafft T, Jungst S, Harel N, Waks M, Pestilli F, Yacoub E, Lenglet C, Ugurbil K, Heilbronner SR, Miller K, Jbabdi S, Zimmermann J, Sotiropoulos SN
